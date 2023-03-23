@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML Basics HW</title>
+</head>
+<body>
+   <div class="wrepper">
+    <header class="header">
+        <nav class="header_nav">
+            <ul class="nav_list">
+                <li><a href="">LIFESTYLE</a></li>
+                    <li><a href="">PHOTODIARY</a></li>
+                        <li><a href="">MUSIC</a></li>
+                        <li><a href="">TRAVEL</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main class="main_page">
+        <div class="card_list">
+            <section class="card">
+                <img
+                src="img/1_1_(1).png"
+                alt="Зображення на картці"
+                class="card_img"
+                />
+                <span>LIFESTYLE</span>
+                <h2 class="card_titel">NemLorem ipsum dolor sit amet consectetur,
+                     adipisicing elit.</h2>
+                       <p class="card_text">
+                        Lorem ipsum dolor sit amet consectetur, adipisicing elit.
+                         Nemo cupiditate impedit dolore, pariatur aliquam voluptatibus
+                          necessitatibus ratione corporis dignissimos debitis tenetur
+                           officia deserunt magni doloremque quod vel saepe non nostrum.
+                       </p>
+            </section>
+            <section class="card">
+            <img
+            src="img/2_1.png"
+            alt="Зображення на картці"
+            class="card_img"
+            />
+            <span>LIFESTYLE</span>
+               <h2 class="card_titel">Lorem ipsum dolor sit amet consectetur,
+                adipisicing elit. </h2>
+                <p class="card_text">
+                    Lorem ipsum dolor sit amet consectetur, adipisicing elit.
+                         Nemo cupiditate impedit dolore, pariatur aliquam voluptatibus
+                          necessitatibus ratione corporis dignissimos debitis tenetur
+                           officia deserunt magni doloremque quod vel saepe non nostrum.
+                </p>
+            </section>
+            <section class="card">
+                <img
+                src="img/3_1.png"
+                alt="Зображення на картці"
+                class="card_img"
+                />
+                <span>PHOTODAIRY</span>
+               <h2 class="card_titel">American dreams</h2>
+                <p class="card_text">
+                    Lorem ipsum dolor sit amet consectetur, adipisicing elit.
+                         Nemo cupiditate impedit dolore, pariatur aliquam voluptatibus
+                          necessitatibus ratione corporis dignissimos debitis tenetur
+                           officia deserunt magni doloremque quod vel saepe non nostrum.
+                </p>
+            </section>
+            <section class="card">
+                <img
+                src="img/4_1.png"
+                alt="Зображення на картці"
+                class="card_img"
+                />
+                <span>PHOTODIARY</span>
+                <h2 class="A day explorining the Alps"></h2>
+                <p class="card_img">
+                    Lorem ipsum dolor sit amet consectetur, adipisicing elit.
+                    Nemo cupiditate impedit dolore, pariatur aliquam voluptatibus
+                     necessitatibus ratione corporis dignissimos debitis tenetur
+                      officia deserunt magni doloremque quod vel saepe non nostrum.
+                </p>
+            </section>
+        </div>
+        <button class="btn">Load more</button>
+   </div>
+</body>
+</html>
