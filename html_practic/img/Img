@@ -74,7 +74,7 @@
                 class="card_img"
                 />
                 <span>PHOTODIARY</span>
-                <h2 class="A day explorining the Alps"></h2>
+                <h2 class="A day explorining the Alps">American</h2>
                 <p class="card_img">
                     Lorem ipsum dolor sit amet consectetur, adipisicing elit.
                     Nemo cupiditate impedit dolore, pariatur aliquam voluptatibus
@@ -83,7 +83,7 @@
                 </p>
             </section>
         </div>
-        <button class="btn">Load more</button>
    </div>
+   <footer>2023</footer>
 </body>
 </html>
